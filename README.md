@@ -152,7 +152,7 @@ npm start
 Server runs on:
 
 ```
-http://localhost:5000
+http://localhost:3000
 ```
 
 ---
